@@ -1,2 +1,6 @@
+# Virtual enviroment 
 venv/
-venv[D[D[D[D.[C[Cvenv/
+venv
+
+# Test files
+*test*
